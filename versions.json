@@ -1,0 +1,136 @@
+{
+    "PROXY": {
+        "VELOCITY": {
+            "3_4_0-SNAPSHOT": {
+                "url": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/454/downloads/velocity-3.4.0-SNAPSHOT-454.jar"
+            },
+            "3_3_0-SNAPSHOT": {
+                "url": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/436/downloads/velocity-3.3.0-SNAPSHOT-436.jar"
+            }
+        },
+        "BUNGEECORD": {
+            "LATEST": {
+                "url": "https://ci.md-5.net/job/BungeeCord/lastStableBuild/artifact/bootstrap/target/BungeeCord.jar"
+            }
+        },
+        "WATERFALL": {
+            "1_21": {
+                "url": "https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar"
+            },
+            "1_20": {
+                "url": "https://api.papermc.io/v2/projects/waterfall/versions/1.20/builds/578/downloads/waterfall-1.20-578.jar"
+            }
+        }
+    },
+    "SERVER": {
+        "PAPER": {
+            "1_21_4": {
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/15/downloads/paper-1.21.4-15.jarr"
+            },
+            "1_21_3": {
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/68/downloads/paper-1.21.3-81.jar"
+            },
+            "1_21_1": {
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/132/downloads/paper-1.21.1-132.jar"
+            },
+            "1_20_6": {
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/151/downloads/paper-1.20.6-151.jar"
+            },
+            "1_20_4": {
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/499/downloads/paper-1.20.4-499.jar"
+            },
+            "1_20_2": {
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.2/builds/318/downloads/paper-1.20.2-318.jar"
+            },
+            "1_20_1": {
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.1/builds/196/downloads/paper-1.20.1-196.jar"
+            }
+        },
+        "PUFFERFISH": {
+            "1_21_3": {
+                "url": "https://ci.pufferfish.host/job/Pufferfish-1.21/lastSuccessfulBuild/artifact/build/libs/pufferfish-paperclip-1.21.3-R0.1-SNAPSHOT-mojmap.jar"
+            },
+            "1_20_4": {
+                "url": "https://ci.pufferfish.host/job/Pufferfish-1.20/52/artifact/build/libs/pufferfish-paperclip-1.20.4-R0.1-SNAPSHOT-reobf.jar"
+            }
+        },
+        "PURPUR": {
+            "1_21_4": {
+                "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2372/download"
+            },
+            "1_21_3": {
+                "url": "https://api.purpurmc.org/v2/purpur/1.21.3/2358/download"
+            },
+            "1_21_1": {
+                "url": "https://api.purpurmc.org/v2/purpur/1.21.1/2329/download"
+            },
+            "1_20_6": {
+                "url": "https://api.purpurmc.org/v2/purpur/1.20.6/2233/download"
+            },
+            "1_20_4": {
+                "url": "https://api.purpurmc.org/v2/purpur/1.20.4/2176/download"
+            },
+            "1_20_2": {
+                "url": "https://api.purpurmc.org/v2/purpur/1.20.2/2095/download"
+            },
+            "1_20_1": {
+                "url": "https://api.purpurmc.org/v2/purpur/1.20.1/2062/download"
+            }
+        },
+        "FOLIA": {
+            "1_21_1": {
+                "url": "https://api.papermc.io/v2/projects/folia/versions/1.21.4/builds/1/downloads/folia-1.21.4-1.jar"
+            },
+            "1_20_6": {
+                "url": "https://api.papermc.io/v2/projects/folia/versions/1.20.6/builds/6/downloads/folia-1.20.6-6.jar"
+            },
+            "1_20_4": {
+                "url": "https://api.papermc.io/v2/projects/folia/versions/1.20.4/builds/31/downloads/folia-1.20.4-31.jar"
+            },
+            "1_20_2": {
+                "url": "https://api.papermc.io/v2/projects/folia/versions/1.20.2/builds/20/downloads/folia-1.20.2-20.jar"
+            },
+            "1_20_1": {
+                "url": "https://api.papermc.io/v2/projects/folia/versions/1.20.1/builds/17/downloads/folia-1.20.1-17.jar"
+            }
+        },
+        "VANILLA": {
+            "1_21_4": {
+                "url": "https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar",
+                "snapshot": false
+            },
+            "1_21_3": {
+                "url": "https://piston-data.mojang.com/v1/objects/45810d238246d90e811d896f87b14695b7fb6839/server.jar",
+                "snapshot": false
+            },
+            "1_21_1": {
+                "url": "https://piston-data.mojang.com/v1/objects/59353fb40c36d304f2035d51e7d6e6baa98dc05c/server.jar",
+                "snapshot": false
+            },
+            "1_20_6": {
+                "url": "https://piston-data.mojang.com/v1/objects/145ff0858209bcfc164859ba735d4199aafa1eea/server.jar",
+                "snapshot": false
+            },
+            "1_20_4": {
+                "url": "https://piston-data.mojang.com/v1/objects/8dd1a28015f51b1803213892b50b7b4fc76e594d/server.jar",
+                "snapshot": false
+            },
+            "1_20_2": {
+                "url": "https://piston-data.mojang.com/v1/objects/5b868151bd02b41319f54c8d4061b8cae84e665c/server.jar",
+                "snapshot": false
+            },
+            "1_20_1": {
+                "url": "https://piston-data.mojang.com/v1/objects/84194a2f286ef7c14ed7ce0090dba59902951553/server.jar",
+                "snapshot": false
+            },
+            "24w14potato": {
+                "url": "https://piston-data.mojang.com/v1/objects/846d3fe65b6dab3f8bf929a601e1f83d801d919c/server.jar",
+                "snapshot": true
+            }
+            "23w13a_or_b": {
+                "url": "https://piston-data.mojang.com/v1/objects/7a9b53ec7999ce01b73a74f3ab9e7e520b09f0eb/server.jar",
+                "snapshot": true
+            }
+        }
+    }
+}
