@@ -2,7 +2,7 @@
     "PROXY": {
         "VELOCITY": {
             "3_4_0-SNAPSHOT": {
-                "url": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/454/downloads/velocity-3.4.0-SNAPSHOT-454.jar"
+                "url": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/463/downloads/velocity-3.4.0-SNAPSHOT-463.jar"
             },
             "3_3_0-SNAPSHOT": {
                 "url": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/436/downloads/velocity-3.3.0-SNAPSHOT-436.jar"
@@ -25,10 +25,10 @@
     "SERVER": {
         "PAPER": {
             "1_21_4": {
-                "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/15/downloads/paper-1.21.4-15.jarr"
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/121/downloads/paper-1.21.4-121.jar"
             },
             "1_21_3": {
-                "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/68/downloads/paper-1.21.3-81.jar"
+                "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/82/downloads/paper-1.21.3-82.jar"
             },
             "1_21_1": {
                 "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/132/downloads/paper-1.21.1-132.jar"
@@ -48,15 +48,15 @@
         },
         "PUFFERFISH": {
             "1_21_3": {
-                "url": "https://ci.pufferfish.host/job/Pufferfish-1.21/lastSuccessfulBuild/artifact/build/libs/pufferfish-paperclip-1.21.3-R0.1-SNAPSHOT-mojmap.jar"
+                "url": "https://ci.pufferfish.host/job/Pufferfish-1.21/lastStableBuild/artifact/build/libs/pufferfish-paperclip-1.21.3-R0.1-SNAPSHOT-mojmap.jar"
             },
             "1_20_4": {
-                "url": "https://ci.pufferfish.host/job/Pufferfish-1.20/52/artifact/build/libs/pufferfish-paperclip-1.20.4-R0.1-SNAPSHOT-reobf.jar"
+                "url": "https://ci.pufferfish.host/job/Pufferfish-1.20/lastStableBuild/artifact/build/libs/pufferfish-paperclip-1.20.4-R0.1-SNAPSHOT-reobf.jar"
             }
         },
         "PURPUR": {
             "1_21_4": {
-                "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2372/download"
+                "url": "https://api.purpurmc.org/v2/purpur/1.21.4/2380/download"
             },
             "1_21_3": {
                 "url": "https://api.purpurmc.org/v2/purpur/1.21.3/2358/download"
@@ -78,7 +78,7 @@
             }
         },
         "FOLIA": {
-            "1_21_1": {
+            "1_21_4": {
                 "url": "https://api.papermc.io/v2/projects/folia/versions/1.21.4/builds/1/downloads/folia-1.21.4-1.jar"
             },
             "1_20_6": {
