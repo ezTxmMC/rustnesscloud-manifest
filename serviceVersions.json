@@ -205,7 +205,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/35e2dfa66b3491b9d2f0bb033679fa5aca1e1fdf097e7a06a80ce8afeda5c214/paper-1.21.6-48.jar"
       },
       "1_21_7": {
-        "url": "https://fill-data.papermc.io/v1/objects/6d2ce4899eecb56a0169ca3df75b791e194975c1c521f87a71b56e373036688b/paper-1.21.7-28.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/7a937b999b93e45b4f2c16101fb1deb1e7be81fde525c1f53333a9ffc377d23e/paper-1.21.7-29.jar"
       },
       "1_8_8": {
         "url": "https://fill-data.papermc.io/v1/objects/7ff6d2cec671ef0d95b3723b5c92890118fb882d73b7f8fa0a2cd31d97c55f86/paper-1.8.8-445.jar"
@@ -323,7 +323,7 @@
         "url": "https://api.purpurmc.org/v2/purpur/1.21.6/2465/download"
       },
       "1_21_7": {
-        "url": "https://api.purpurmc.org/v2/purpur/1.21.7/2475/download"
+        "url": "https://api.purpurmc.org/v2/purpur/1.21.7/2476/download"
       }
     },
     "FOLIA": {
