@@ -26,7 +26,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/06bb2a6ac16228a2f33a0336952624e6918a97535d36a3660725b18e2a6efdfb/velocity-3.3.0-SNAPSHOT-436.jar"
       },
       "3_4_0-SNAPSHOT": {
-        "url": "https://fill-data.papermc.io/v1/objects/1d9dc624bef59a62f320bc22a134e44a7b9326538463e94726465297e6324751/velocity-3.4.0-SNAPSHOT-521.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/f82780ce33035ebe3d6ea7981f0e6e8a3e41a64f2080ef5c0f1266fada03cbee/velocity-3.4.0-SNAPSHOT-522.jar"
       }
     },
     "BUNGEECORD": {
@@ -207,6 +207,9 @@
       "1_21_7": {
         "url": "https://fill-data.papermc.io/v1/objects/83838188699cb2837e55b890fb1a1d39ad0710285ed633fbf9fc14e9f47ce078/paper-1.21.7-32.jar"
       },
+      "1_21_8": {
+        "url": "https://fill-data.papermc.io/v1/objects/05e9809f4a2a09b2e4fc05872d0b5c2d2d52178d27fc7f27ecd179643e2efe66/paper-1.21.8-4.jar"
+      },
       "1_8_8": {
         "url": "https://fill-data.papermc.io/v1/objects/7ff6d2cec671ef0d95b3723b5c92890118fb882d73b7f8fa0a2cd31d97c55f86/paper-1.8.8-445.jar"
       },
@@ -323,7 +326,7 @@
         "url": "https://api.purpurmc.org/v2/purpur/1.21.6/2465/download"
       },
       "1_21_7": {
-        "url": "https://api.purpurmc.org/v2/purpur/1.21.7/2476/download"
+        "url": "https://api.purpurmc.org/v2/purpur/1.21.7/2477/download"
       }
     },
     "FOLIA": {
@@ -512,6 +515,9 @@
       },
       "1_21_7": {
         "url": "https://piston-data.mojang.com/v1/objects/05e4b48fbc01f0385adb74bcff9751d34552486c/server.jar"
+      },
+      "1_21_8": {
+        "url": "https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar"
       },
       "1_2_5": {
         "url": "https://launcher.mojang.com/v1/objects/d8321edc9470e56b8ad5c67bbd16beba25843336/server.jar"
