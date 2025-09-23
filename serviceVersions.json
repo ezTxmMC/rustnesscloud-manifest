@@ -26,7 +26,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/06bb2a6ac16228a2f33a0336952624e6918a97535d36a3660725b18e2a6efdfb/velocity-3.3.0-SNAPSHOT-436.jar"
       },
       "3_4_0-SNAPSHOT": {
-        "url": "https://fill-data.papermc.io/v1/objects/843f4979f8d61014b7e9abe24426195addc0997a7da5e3475a35a0cc7ae84a79/velocity-3.4.0-SNAPSHOT-535.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/bb46a8fb345bede39d8aca3202cae0a64a0277d69519b720b6023f93da64aad0/velocity-3.4.0-SNAPSHOT-536.jar"
       }
     },
     "BUNGEECORD": {
@@ -212,6 +212,9 @@
       },
       "1_21_9-pre2": {
         "url": "https://fill-data.papermc.io/v1/objects/f24f81421449bbcf125be5501223bf9faa9a3ef2006b16988be25601c015757e/paper-1.21.9-pre2-7.jar"
+      },
+      "1_21_9-pre3": {
+        "url": "https://fill-data.papermc.io/v1/objects/4dfbd3a0808842148a23019921c015606746d0d312d530db1abe096cdf874cdc/paper-1.21.9-pre3-9.jar"
       },
       "1_7_10": {
         "url": "https://fill-data.papermc.io/v1/objects/33772078d92e9dbb027602da016524ef29af5b4c12eaddac1fe2465b01108185/paper-1.7.10-2025.jar"
