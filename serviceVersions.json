@@ -26,7 +26,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/06bb2a6ac16228a2f33a0336952624e6918a97535d36a3660725b18e2a6efdfb/velocity-3.3.0-SNAPSHOT-436.jar"
       },
       "3_4_0-SNAPSHOT": {
-        "url": "https://fill-data.papermc.io/v1/objects/a70b88811e68ab929e784f1de17f3ac14eab8db3c66a16fcb0447a3f672fda34/velocity-3.4.0-SNAPSHOT-537.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/439a5c8ba3c7850d0d9ad5cc8117204fba794329073e5ef5c862d737c40d32d7/velocity-3.4.0-SNAPSHOT-538.jar"
       }
     },
     "BUNGEECORD": {
@@ -66,7 +66,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/a6786337d4d41e19b5d0f771027b01956e6fb11a62244e762f5dae2e76c34644/waterfall-1.20-578.jar"
       },
       "1_21": {
-        "url": "https://fill-data.papermc.io/v1/objects/954b48b95a4300e1493aaa0c9532fc4a89d38136d74ccfb6df8c2b60eea48ee6/waterfall-1.21-598.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/7d9c8d80c95ceebc7fa05b142c147860fc92ec316176c6bc5d42d762798e1d62/waterfall-1.21-600.jar"
       }
     }
   },
@@ -217,7 +217,10 @@
         "url": "https://fill-data.papermc.io/v1/objects/b823c6ff6a11ccbab475bf4e5786ee271fea406331e27d0581387765ccc16bc8/paper-1.21.9-pre3-12.jar"
       },
       "1_21_9-pre4": {
-        "url": "https://fill-data.papermc.io/v1/objects/bd40d5a06d2b2ba3a4c58dadb32417274c85967bff6ce3a44833e73eb98a2c03/paper-1.21.9-pre4-15.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/59f2df043a9b186243439398c0dd8ed876e8eacd995f3f667a86406a699b1a27/paper-1.21.9-pre4-22.jar"
+      },
+      "1_21_9-rc1": {
+        "url": "https://fill-data.papermc.io/v1/objects/bad2e39bd7a9350437fded662887a83e2e869cf03c823bdc53070b301291dad5/paper-1.21.9-rc1-23.jar"
       },
       "1_7_10": {
         "url": "https://fill-data.papermc.io/v1/objects/33772078d92e9dbb027602da016524ef29af5b4c12eaddac1fe2465b01108185/paper-1.7.10-2025.jar"
