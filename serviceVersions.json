@@ -210,6 +210,9 @@
       "1_21_8": {
         "url": "https://fill-data.papermc.io/v1/objects/8de7c52c3b02403503d16fac58003f1efef7dd7a0256786843927fa92ee57f1e/paper-1.21.8-60.jar"
       },
+      "1_21_9": {
+        "url": "https://fill-data.papermc.io/v1/objects/55785f1c90839e06470dc4c2efc70c909f5e475333b51c5cec32fec14f807443/paper-1.21.9-38.jar"
+      },
       "1_21_9-pre2": {
         "url": "https://fill-data.papermc.io/v1/objects/f24f81421449bbcf125be5501223bf9faa9a3ef2006b16988be25601c015757e/paper-1.21.9-pre2-7.jar"
       },
@@ -220,7 +223,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/59f2df043a9b186243439398c0dd8ed876e8eacd995f3f667a86406a699b1a27/paper-1.21.9-pre4-22.jar"
       },
       "1_21_9-rc1": {
-        "url": "https://fill-data.papermc.io/v1/objects/ec7ea24d2d678e3c68554b1db80ad2c926a4683ac2bf6eba3edc64a4844f47ca/paper-1.21.9-rc1-35.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/f737c4ce0afd8ca897c5330188634859148419c6c2d2e172c65f581c47430ab1/paper-1.21.9-rc1-36.jar"
       },
       "1_7_10": {
         "url": "https://fill-data.papermc.io/v1/objects/33772078d92e9dbb027602da016524ef29af5b4c12eaddac1fe2465b01108185/paper-1.7.10-2025.jar"
@@ -345,6 +348,9 @@
       },
       "1_21_8": {
         "url": "https://api.purpurmc.org/v2/purpur/1.21.8/2497/download"
+      },
+      "1_21_9": {
+        "url": "https://api.purpurmc.org/v2/purpur/1.21.9/2498/download"
       }
     },
     "FOLIA": {
@@ -373,7 +379,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/917a8abaa542c1d0ef0e969693e227a7bfe1c42e671aaa806309e00a64efc234/folia-1.21.6-6.jar"
       },
       "1_21_8": {
-        "url": "https://fill-data.papermc.io/v1/objects/06a99a637b3bfc1a2ea1b6788869bb130704daf43215c8a69cf70bf1361f4b21/folia-1.21.8-5.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/233843cfd5001b6f658fcab549178d694cc37f0277d004ea295de0a94c57278f/folia-1.21.8-6.jar"
       }
     },
     "VANILLA": {
@@ -539,6 +545,9 @@
       },
       "1_21_8": {
         "url": "https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar"
+      },
+      "1_21_9": {
+        "url": "https://piston-data.mojang.com/v1/objects/11e54c2081420a4d49db3007e66c80a22579ff2a/server.jar"
       },
       "1_2_5": {
         "url": "https://launcher.mojang.com/v1/objects/d8321edc9470e56b8ad5c67bbd16beba25843336/server.jar"
