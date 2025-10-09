@@ -334,6 +334,9 @@
       "1_21_1": {
         "url": "https://api.purpurmc.org/v2/purpur/1.21.1/2329/download"
       },
+      "1_21_10": {
+        "url": "https://api.purpurmc.org/v2/purpur/1.21.10/2506/download"
+      },
       "1_21_3": {
         "url": "https://api.purpurmc.org/v2/purpur/1.21.3/2358/download"
       },
