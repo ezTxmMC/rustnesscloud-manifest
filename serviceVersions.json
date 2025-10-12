@@ -26,7 +26,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/06bb2a6ac16228a2f33a0336952624e6918a97535d36a3660725b18e2a6efdfb/velocity-3.3.0-SNAPSHOT-436.jar"
       },
       "3_4_0-SNAPSHOT": {
-        "url": "https://fill-data.papermc.io/v1/objects/e95637272e6aea826b0fbfcc64316c2d44e1bc87516ed69fafce8fa4059ebf79/velocity-3.4.0-SNAPSHOT-542.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/8112d36408d326b2103aac768eef12014eb86865b9c52ad3318c146d36316fea/velocity-3.4.0-SNAPSHOT-543.jar"
       }
     },
     "BUNGEECORD": {
@@ -193,7 +193,7 @@
         "url": "https://fill-data.papermc.io/v1/objects/39bd8c00b9e18de91dcabd3cc3dcfa5328685a53b7187a2f63280c22e2d287b9/paper-1.21.1-133.jar"
       },
       "1_21_10": {
-        "url": "https://fill-data.papermc.io/v1/objects/3dade0873b2b858b0574da774ac8a8d0fdeec71d96473f406cd2d35b29b492d6/paper-1.21.10-65.jar"
+        "url": "https://fill-data.papermc.io/v1/objects/ecfe080cecd976ba47f6ba71dca12327f8563f7ce69572168d0777c558f5e977/paper-1.21.10-69.jar"
       },
       "1_21_3": {
         "url": "https://fill-data.papermc.io/v1/objects/87e973e1d338e869e7fdbc4b8fadc1579d7bb0246a0e0cf6e5700ace6c8bc17e/paper-1.21.3-83.jar"
@@ -335,7 +335,7 @@
         "url": "https://api.purpurmc.org/v2/purpur/1.21.1/2329/download"
       },
       "1_21_10": {
-        "url": "https://api.purpurmc.org/v2/purpur/1.21.10/2506/download"
+        "url": "https://api.purpurmc.org/v2/purpur/1.21.10/2508/download"
       },
       "1_21_3": {
         "url": "https://api.purpurmc.org/v2/purpur/1.21.3/2358/download"
